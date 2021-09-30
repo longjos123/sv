@@ -45,7 +45,29 @@ const Footer = () => {
                                     </div>
                                 </div>
                             </div>
+                            <div class="block-21 mb-4 d-flex">
+                                <Link class="blog-img mr-4" style="background-image: url(images/image_2.jpg);"></Link>
+                                <div class="text">
+                                    <h3 class="heading"><Link href="#">Even the all-powerful Pointing has no control about</Link></h3>
+                                    <div class="meta">
+                                        <div><Link href="#"><span class="icon-calendar"></span> Sept 15, 2018</Link></div>
+                                        <div><Link href="#"><span class="icon-person"></span> Admin</Link></div>
+                                        <div><Link href="#"><span class="icon-chat"></span> 19</Link></div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
+                        <div class="block-21 mb-4 d-flex">
+                                <Link class="blog-img mr-4" style="background-image: url(images/image_2.jpg);"></Link>
+                                <div class="text">
+                                    <h3 class="heading"><Link href="#">Even the all-powerful Pointing has no control about</Link></h3>
+                                    <div class="meta">
+                                        <div><Link href="#"><span class="icon-calendar"></span> Sept 15, 2018</Link></div>
+                                        <div><Link href="#"><span class="icon-person"></span> Admin</Link></div>
+                                        <div><Link href="#"><span class="icon-chat"></span> 19</Link></div>
+                                    </div>
+                                </div>
+                            </div>
                     </div>
                     <div class="col-lg-2 col-md-6 mb-5 mb-md-5">
                         <div class="ftco-footer-widget mb-4 ml-md-4">
